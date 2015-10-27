@@ -1,4 +1,4 @@
 # hello-world
 Just for GITHUB Intro
 
-first edit.
+A Beginner using GitHub..
