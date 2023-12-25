@@ -4,6 +4,8 @@ import sys
 
 def runit():
     print('runit')
+    print('done....')
+    print('return now.')
     return True
 
 print('Hello world.')
